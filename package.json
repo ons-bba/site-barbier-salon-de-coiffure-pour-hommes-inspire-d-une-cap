@@ -1,0 +1,12 @@
+{
+  "name": "site-barbier-salon-de-coiffure-pour-hommes-inspire-d-une-cap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine généré avec TaskWizia",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
